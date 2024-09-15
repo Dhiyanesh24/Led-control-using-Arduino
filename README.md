@@ -61,7 +61,7 @@ Weighing Machines </br>
 ![1exp](https://github.com/user-attachments/assets/0a85d7fd-b313-4dde-9232-4dbd346ba76c)
 
 ## PROGRAM
-```
+```python
 const int buttonPin = 2;     
 const int ledPin =5;     
 int buttonState = 0; 
